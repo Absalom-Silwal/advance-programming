@@ -69,5 +69,8 @@ def start_server():
         print(f"[ACTIVE CONNECTIONS] {threading.active_count() - 1}")
 
 
+#need to work on file transfer and also need to work on the client side to send the file to the server and also need to work on the server side to receive the file from the client and also need to work on the server side to send the file to the client and also need to work on the client side to receive the file from the server and also need to work on the server side to send the file to the client and also need to work on the client side to receive the file from the server and also need to work on the server side to send the file to the client and also need to work on the client side to receive the file from the server and also need to work on the server side to send the file to the client and also need to work on the client side to receive the file from the server and also need to work on the server side to send the file to the client and also need to work on the client side to receive the file from the server and also need to work on the server side to send the file to the client and also need to work on the client side to receive
+
+
 if __name__ == "__main__":
     start_server()
